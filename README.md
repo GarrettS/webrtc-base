@@ -1,4 +1,4 @@
-* start server command: 
+* Start server command: 
 
 	bin/devserver
 
